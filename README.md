@@ -2,6 +2,4 @@
 
 # Instalation
 
-compouser insall
-Copy .env.example to .env file
-Run php artisan key generate
+compouser insall, Copy .env.example to .env file, Run php artisan key generate
